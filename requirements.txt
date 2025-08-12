@@ -1,4 +1,3 @@
-flask
-gunicorn
-requests
-python-dotenv
+Flask==3.0.3
+openai>=1.30.0
+gunicorn==22.0.0
